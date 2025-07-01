@@ -40,4 +40,7 @@ Moreover, some Expense Trackers integrate with bank accounts or credit cards, au
 
 The benefits of using an Expense Tracker are numerous. It promotes financial discipline by encouraging regular expense recording and review. Users become more conscious of their spending habits and identify unnecessary expenditures that can be cut. Over time, this leads to better money management, increased savings, and reduced financial stress.
 
-In conclusion, an Expense Tracker is an indispensable tool for anyone looking to take control of their finances. By offering detailed tracking, insightful analysis, and budgeting capabilities, it empowers users to make informed decisions, avoid debt, and work toward their financial goals confidently. Whether you’re an individual managing a personal budget or a small business owner overseeing expenses, an Expense Tracker simplifies financial management and helps pave the way to financial well-being
+In conclusion, an Expense Tracker is an indispensable tool for anyone looking to take control of their finances. By offering detailed tracking, insightful analysis, and budgeting capabilities, it empowers users to make informed decisions, avoid debt, and work toward their financial goals confidently. Whether you’re an individual managing a personal budget or a small business owner overseeing expenses, an Expense Tracker simplifies financial management and helps pave the way to financial well-being.
+
+## OUTPUT:-
+![Image](https://github.com/user-attachments/assets/c80216c4-6717-4f66-98d3-93ff36d9ba02)
